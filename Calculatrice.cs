@@ -7,8 +7,12 @@
             Console.WriteLine("Hello, World!!!");
         }
 
+        public static int Soustraction(int a, int b)
+        {
+            return a - b;
+        }
 
-        public static int addition(int a, int b) 
+        public static int Addition(int a, int b) 
         {
             return a + b;
         }

@@ -1,6 +1,6 @@
 ﻿namespace Calculatrice
 {
-    internal class Program
+    internal class Calculatrice
     {
         static void Main(string[] args)
         {
